@@ -1,0 +1,38 @@
+# Binary / build outputs
+bin/
+obj/
+
+# Visual Studio user files
+*.user
+*.suo
+*.userprefs
+
+# IDE specific
+.vs/
+
+# Local DB files (if any)
+*.mdb
+*.ldf
+*.mdl
+
+# Runtime config (sometimes auto-generated)
+*.runtimeconfig.json
+
+# Backup / temp files
+*~
+*.bak
+*.backup
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# NuGet cache (packages restored via NuGet.exe)
+packages/
+
+# Publish output
+.publish
+
+# Temp files
+*.tmp
+GITEOF && echo ".gitignore created successfully" && cat .gitignore

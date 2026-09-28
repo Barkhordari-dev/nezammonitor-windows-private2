@@ -1,0 +1,10 @@
+E:\Nezam Monitor-Mahdi2\source\NezamMonitor.Core\bin\Release\net8.0\NezamMonitor.Core.deps.json
+E:\Nezam Monitor-Mahdi2\source\NezamMonitor.Core\bin\Release\net8.0\NezamMonitor.Core.dll
+E:\Nezam Monitor-Mahdi2\source\NezamMonitor.Core\obj\Release\net8.0\NezamMonitor.Core.csproj.AssemblyReference.cache
+E:\Nezam Monitor-Mahdi2\source\NezamMonitor.Core\obj\Release\net8.0\NezamMonitor.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nezam Monitor-Mahdi2\source\NezamMonitor.Core\obj\Release\net8.0\NezamMonitor.Core.AssemblyInfoInputs.cache
+E:\Nezam Monitor-Mahdi2\source\NezamMonitor.Core\obj\Release\net8.0\NezamMonitor.Core.AssemblyInfo.cs
+E:\Nezam Monitor-Mahdi2\source\NezamMonitor.Core\obj\Release\net8.0\NezamMonitor.Core.csproj.CoreCompileInputs.cache
+E:\Nezam Monitor-Mahdi2\source\NezamMonitor.Core\obj\Release\net8.0\NezamMonitor.Core.dll
+E:\Nezam Monitor-Mahdi2\source\NezamMonitor.Core\obj\Release\net8.0\refint\NezamMonitor.Core.dll
+E:\Nezam Monitor-Mahdi2\source\NezamMonitor.Core\obj\Release\net8.0\ref\NezamMonitor.Core.dll
